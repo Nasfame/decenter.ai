@@ -17,6 +17,7 @@ DeCenter AI is a PaaS infrastructure that empowers machine learning engineers to
 - [Hackathon](#hackathon)
 - [How-to](#how-to)
 - [XRP-Ledger](#xrp-ledger)
+- [XRPL-Hooks](#xrpl-hooks)
 - [Contributing](#contributing)
 - [License](#license)
 - [Authors](#authors)
@@ -134,8 +135,24 @@ For the hackathon, we built the PoC for project which is a distributed parallel 
 - User is taken to the Results and Evaluation page
 
 ## XRP-Ledger
+Incorporating the following features of the XRP Ledger into the DeCenter AI project will provide users with a secure, efficient, and flexible financial infrastructure that aligns with the project's goals of decentralization and empowerment in the AI model training space.
+
+### XRP Ledger for payments
+The Payment System powered by the XRP Ledger in the DeCenter AI project allows users to seamlessly transact value in the form of XRP. This system enables fast and low-cost transactions, making it ideal for handling payments related to services, subscriptions, and incentives within the platform. Users can quickly transfer XRP tokens to settle various financial interactions, enhancing the efficiency of financial transactions on the DeCenter AI platform.
+
+### XRP Ledger for escrow functions
+The Escrow functions of the XRP Ledger within the DeCenter AI project provide an extra layer of security and trust for larger transactions or deals. Escrow functionality allows participants to create time-locked transactions where the XRP funds are held in escrow until certain predefined conditions are met. This can be applied to scenarios where users engage in agreements involving multi-step processes or contractual obligations. The Escrow feature ensures that both parties fulfill their commitments before the funds are released, increasing transparency and reducing the risk of disputes.
+
+### XRP Ledger for multisig transactions
+The Multisig (multisignature) functions of the XRP Ledger in the DeCenter AI project enhance the security and control over transactions involving multiple parties. With multisig, transactions require approval from multiple authorized participants before they are executed. This can be especially useful for governance-related decisions, fund management, or collaborative actions that involve key stakeholders. By requiring multiple signatures, the Multisig function ensures that critical actions are only taken when a consensus is reached among designated participants, enhancing security and reducing the risk of unauthorized actions.
 
 
+## XRPL-Hooks
+### XRPL for Pay-as-you-train
+The XRPL Hooks within the DeCenter AI project can implement a "Pay-as-you-train" mechanism by embedding logic into transactions. Hooks can facilitate the execution of real-time calculations based on the computational resources used during AI model training. For instance, as a training session progresses, the Hook can compute the resource consumption and automatically adjust the payment according to the actual usage. This dynamic payment structure ensures that users are billed precisely for the resources they employ, aligning with the cost-effective and efficient ethos of the DeCenter AI project.
+
+### XRPL Hooks for Incentive and Reward System.
+XRPL Hooks offer the ideal framework to implement an incentive and reward system within the DeCenter AI project. Our Platform has been programmed to monitor specific user actions, such as completing tasks, providing valuable contributions, or achieving predefined milestones in AI model training. Upon detecting these actions, the Hook can trigger the issuance of rewards in the form of DCEN Tokens directly to the user's account. This process is automated, ensuring that contributors and participants are incentivized in real time. The transparency and efficiency of XRPL Hooks enable a secure and reliable system for distributing rewards, fostering engagement and collaboration within the DeCenter AI ecosystem.
 
 ## Contributing
 
