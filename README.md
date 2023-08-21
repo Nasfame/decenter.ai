@@ -14,7 +14,6 @@ DeCenter AI is a PaaS infrastructure that empowers machine learning engineers to
 - [Installation](#installation)
 - [Usage](#usage)
 - [Overview](#overview)
-- [Features](#features)
 - [Hackathon](#hackathon)
 - [How-to](#how-to)
 - [Contributing](#contributing)
@@ -26,34 +25,51 @@ DeCenter AI is a PaaS infrastructure that empowers machine learning engineers to
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/GamerHub/GamerHub.git`
+1. Clone the repository: `git clone 
 2. Install the dependencies: `npm install`
 
 ## Usage
 
 1. Run the development server: `npm run dev`
-2. Access GamerHub in your web browser: `http://localhost:3000`
+2. Access DeCenter AI in your web browser: `http://localhost:3000`
 
 
 ## Overview
-GamerHub is a gaming platform that brings together web2 and web3 games in one place. It allows gamers to access and play a wide range of games, metaverses, guilds, and NFTs. With a focus on ownership and profitability, GamerHub enables players to earn rewards while playing games. It provides a user-friendly interface with features like user and game dashboards, gamer profiles, and subscription systems. GamerHub aims to create a seamless and immersive gaming experience for gamers of all kinds. The platform can be accessed through the web, a mobile application or a PC launcher with flexible subscrition plans for users with multiple devices.
+DeCenter AI functions as a PaaS infrastructure, empowering machine learning engineers to expedite and make the training of AI models more cost-effective through decentralized parallel training methods.
 
-## Features
+The core objective of DeCenter AI is to democratize and decentralize AI model training. By offering a distributed training platform, it allows data scientists, machine learning engineers, researchers, and AI specialists to collaboratively contribute to the training of AI models.
+
+Structured around a distributed parallel training mechanism, DeCenter AI has been designed to facilitate the training of various ML and DL models in a significantly reduced time frame and cost compared to the current norms.
+
+Our platform incorporates a built-in incentive system, fueled by DCEN Tokens. This system not only rewards contributors and participants but also encourages them to undertake tasks such as reviewing, testing, and rating AI models.
+
+### Features
 
 - Intuitive AI model deployment UI
 - Customizable node configuration
 - Private decentralized infrastructure
 - Scheduled model training
 
+ ### Target Customers
+- Machine learning engineers and data scientists
+- Businesses and enterprises 
+- Tech start-ups and scale-ups 
+
+  
+ ### Benefits 
+- Rapid iteration
+- Cost effective
+- Seamless deployment
+- Automated resource management
+
+  
 ## Hackathon
-For the hackthon, we built the MVP for GamerHub. this includes the website, landing pages, wallet connection using particle network,sign-up and sign-in systems, subscription systems, user dashboard, game dashboard, user profile and user reward systems. We also worked on the Pitch deck, Tokenomics, Go-to-market strategy, product pricing, token economy/usecase, market size/oppourtuity, competitive analysis and advantage among others.
+For the hackathon, we built the PoC for project which is a distributed parallel training platform leveraging hyperledger fabric to train a single type of ML model. We also worked on the website, waitlist for erly access to generate EOI, Pitch deck, Customer profiles, Demo videos, Tokenomics, Go-to-market strategy, product pricing, token economy/usecase, market research, competitive analysis and advantage among others.
 
 ### Website
 - A visually appealing landing page that introduces the DeCenter project and its value proposition.
 - Briefly explains the benefits of decentralized AI model training and its impact on reducing time and costs.
 ![Decenter Ai Website](https://github.com/Web3Mustketeers/decenter.ai/assets/131058062/48e6afa6-4989-4023-8892-226e1462bdd8)
-
-
 
 
 ### Sign-up and Sign-in
@@ -73,8 +89,6 @@ For the hackthon, we built the MVP for GamerHub. this includes the website, land
 - Page to upload AI model files and specify training configurations.
 - Users can define hyperparameters, dataset paths, and other settings.
 ![Group 16050](https://github.com/Web3Mustketeers/decenter.ai/assets/131058062/ddfc3591-08ae-48f7-9fe8-03a941617686)
-
-
 
 
 ### Node Selection and Configuration
@@ -103,7 +117,7 @@ For the hackthon, we built the MVP for GamerHub. this includes the website, land
 
 ## How-to
 
-- User visits landing page https://decenter.ai 
+- User visits landing page 
 - User views the Landing Page Opens
 - User Clicks “Get Started”
 - User is taken to the Sign up page
@@ -122,7 +136,7 @@ For the hackthon, we built the MVP for GamerHub. this includes the website, land
 
 ## Contributing
 
-We welcome contributions from the open-source community. If you would like to contribute to GamerHub, please follow these steps:
+We welcome contributions from the open-source community. If you would like to contribute to DeCenter AI, please follow these steps:
 
 1. Fork the repository and create a new branch.
 2. Make your changes and commit them.
@@ -130,27 +144,27 @@ We welcome contributions from the open-source community. If you would like to co
 
 ## License
 
-GamerHub is released under the [MIT License](https://opensource.org/licenses/MIT).
+DeCenter AI is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Authors
 
-- Victor Kaycee <victorkaycee@gamer-hub.io>
-- Glory Lucas <lucasgold24@gmail.com>
-- Milan Jansen <kenzo.egghead@gmail.com>
-- William Ikeji <williamikeji@gmail.com>
+- Victor Kaycee [Email](victorkaycee17@gmail.com).  [Linkedln](https://www.linkedin.com/in/victor-kaycee). 
+- Glory Lucas  [Email](lucasgold24@gmail.com).  [Linkedln](https://www.linkedin.com/in/glorylucas/). 
+- Hiro Hamada  [Email](laciferin@gmail.com).  [Linkedln](http://linkedin.com/in/laciferin/). 
+- William Ikeji  [Email](williamikeji@gmail.com).  [Linkedln](https://www.linkedin.com/in/codypharm/). 
 
 ## Acknowledgments
 
-We would like to thank the following individuals and organizations for their contributions to GamerHub:
+We would like to thank the following individuals and organizations for their contributions to DeCenter AI:
 
 - Caleb Lucas for his support and encouragement
 - Our dedicated community developers for their valuable feedback and support.
 
 ## Support
 
-For any inquiries or assistance, please contact our support team at info@gamer-hub.io or visit our [website](https://bnb-hackathon-pro.vercel.app/).
+For any inquiries or assistance, please contact our support team at decenterai.com@gmail.com or visit our [website](https://decenter.ai/).
 
 
 ## Links
 
-/  [Pitch Deck](https://www.canva.com/design/DAFde35m48g/XrBT7XbWeEcIgrW55F8XIg/view?utm_content=DAFde35m48g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+/  [Pitch Deck](https://www.canva.com/design/DAFqtW99aQA/JaMUR8Gc23ODJXcEd6PGMw/view?utm_content=DAFqtW99aQA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
