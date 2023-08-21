@@ -150,7 +150,7 @@ The Multisig (multisignature) functions of the XRP Ledger in the DeCenter AI pro
 ## XRPL-Hooks
  The integration of Hooks adds a layer of automation and intelligence to these features, enhancing user experience and aligning with the project's mission.
  
-### XRPL for Pay-as-you-train
+### XRPL Hooks for Pay-as-you-train
 The XRPL Hooks within the DeCenter AI project can implement a "Pay-as-you-train" mechanism by embedding logic into transactions. Hooks can facilitate the execution of real-time calculations based on the computational resources used during AI model training. For instance, as a training session progresses, the Hook can compute the resource consumption and automatically adjust the payment according to the actual usage. This dynamic payment structure ensures that users are billed precisely for the resources they employ, aligning with the cost-effective and efficient ethos of the DeCenter AI project.
 
 ### XRPL Hooks for Incentive and Reward System.
