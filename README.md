@@ -16,6 +16,7 @@ DeCenter AI is a PaaS infrastructure that empowers machine learning engineers to
 - [Overview](#overview)
 - [Hackathon](#hackathon)
 - [How-to](#how-to)
+- [XRP-Ledger](#xrp-ledger)
 - [Contributing](#contributing)
 - [License](#license)
 - [Authors](#authors)
@@ -131,6 +132,8 @@ For the hackathon, we built the PoC for project which is a distributed parallel 
 - User is taken to the Training Progress and Monitoring Page
 - User views training progress until it’s complete, User Clicks “Done”
 - User is taken to the Results and Evaluation page
+
+## XRP-Ledger
 
 
 
