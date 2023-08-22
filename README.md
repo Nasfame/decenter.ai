@@ -169,7 +169,7 @@ We would like to thank the following individuals and organizations for their con
 
 ## Support
 
-For any inquiries or assistance, please contact our support team at decenterai.com@gmail.com or visit our [website](https://decenter.ai/).
+For any inquiries or assistance, please contact our support team at decenterai.com@gmail.com or visit our [website](https://decenterai.com/).
 
 
 ## Links
