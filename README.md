@@ -1,6 +1,3 @@
-
-# decenter.ai
-Web interface of decenter.ai
 # DeCenter AI
 
 Decentralized AI Model Training Infrastructure
@@ -10,9 +7,6 @@ Decentralized AI Model Training Infrastructure
 DeCenter AI is a PaaS infrastructure that empowers machine learning engineers to train AI models more quickly and affordably through decentralized parallel training mechanisms.
 
 ## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
 - [Overview](#overview)
 - [Hackathon](#hackathon)
 - [How-to](#how-to)
@@ -25,15 +19,6 @@ DeCenter AI is a PaaS infrastructure that empowers machine learning engineers to
 - [Support](#support)
 - [Links](#links)
 
-## Installation
-
-1. Clone the repository: `git clone 
-2. Install the dependencies: `npm install`
-
-## Usage
-
-1. Run the development server: `npm run dev`
-2. Access DeCenter AI in your web browser: `http://localhost:3000`
 
 
 ## Overview
