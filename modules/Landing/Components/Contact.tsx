@@ -57,10 +57,20 @@ const Contact = () => {
           or access pre-trained AI models. It provides a space
         </small>
 
-        <div className="w-full flex gap-10 h-[400px]  mt-16">
+        <div className="w-full flex gap-20 h-[400px]  mt-16">
           <div className="w-[20%] h-full  text-lightGray text-center">
-            <div className="h-[50%]"></div>
-            <div className="h-[10%] text-md font-semibold">HIRO HAMADA</div>
+            <div className="h-[50%] relative">
+              <Image
+                src="/hiro.png"
+                alt="user profile"
+                className="rounded-xl"
+                fill={true}
+                style={{ objectFit: "cover" }}
+              />
+            </div>
+            <div className="h-[10%] text-md font-semibold pt-3">
+              HIRO HAMADA
+            </div>
             <div className="h-[10%] text-center text-md">Core Contributor</div>
             <div className="h-[20%] text-center text-sm">
               Product Engineer
@@ -79,30 +89,18 @@ const Contact = () => {
               </div>
             </div>
           </div>
+
           <div className="w-[20%] h-full  text-lightGray text-center">
-            <div className="h-[50%]"></div>
-            <div className="h-[10%] text-md font-semibold">AMAAN SAYYAD</div>
-            <div className="h-[10%] text-center text-md">Core Contributor</div>
-            <div className="h-[20%] text-center text-sm">
-              Co-founder and CTO
-              <br />
-              at SolarAI
+            <div className="h-[50%] relative ">
+              <Image
+                src="/william.png"
+                alt="user profile"
+                className="rounded-xl"
+                fill={true}
+                style={{ objectFit: "cover" }}
+              />
             </div>
-            <div className="h-[10%] flex justify-center space-x-6">
-              <div className="bg-lightGray rounded-full flex items-center justify-center p-2 text-black px-2.5">
-                <TfiLinkedin size={20} />
-              </div>
-              <div className="  rounded-full flex items-center justify-center  text-lightGray ">
-                <VscGithub size={35} className="rounded-full" />
-              </div>
-              <div className="bg-lightGray rounded-full flex items-center justify-center p-2 text-black px-2.5">
-                <MdEmail size={20} />
-              </div>
-            </div>
-          </div>
-          <div className="w-[20%] h-full  text-lightGray text-center">
-            <div className="h-[50%]"></div>
-            <div className="h-[10%] text-md font-semibold">
+            <div className="h-[10%] text-md font-semibold pt-3">
               CHUKWUNONSO IKEJI
             </div>
             <div className="h-[10%] text-center text-md">Core Contributor</div>
@@ -124,8 +122,18 @@ const Contact = () => {
             </div>
           </div>
           <div className="w-[20%] h-full  text-lightGray text-center">
-            <div className="h-[50%]"></div>
-            <div className="h-[10%] text-md font-semibold">GLORY LUCAS</div>
+            <div className="h-[50%] relative">
+              <Image
+                src="/glory.png"
+                alt="user profile"
+                className="rounded-xl"
+                fill={true}
+                style={{ objectFit: "cover" }}
+              />
+            </div>
+            <div className="h-[10%] text-md font-semibold pt-3">
+              GLORY LUCAS
+            </div>
             <div className="h-[10%] text-center text-md">Core Contributor</div>
             <div className="h-[20%] text-center text-sm">
               Founder at Mindspace
@@ -145,8 +153,18 @@ const Contact = () => {
             </div>
           </div>
           <div className="w-[20%] h-full  text-lightGray text-center">
-            <div className="h-[50%]"></div>
-            <div className="h-[10%] text-md font-semibold">VICTOR KAYCEE</div>
+            <div className="h-[50%] relative">
+              <Image
+                src="/victor.png"
+                alt="user profile"
+                className="rounded-xl"
+                fill={true}
+                style={{ objectFit: "cover" }}
+              />
+            </div>
+            <div className="h-[10%] text-md font-semibold pt-3">
+              VICTOR KAYCEE
+            </div>
             <div className="h-[10%] text-center text-md">Core Contributor</div>
             <div className="h-[20%] text-center text-sm">
               Founder at

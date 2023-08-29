@@ -31,49 +31,49 @@ const NavBar = () => {
       <div className="h-90% w-full overflow-y-auto">
         <div
           onClick={() => dispatch(setPage({ page: "dashboard" }))}
-          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-2xl"
+          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg  hover:text-lightGray"
         >
           <LuLayoutDashboard size={25} />
           <div className="font-semibold">Dashboard</div>
         </div>
         <div
           onClick={() => dispatch(setPage({ page: "train_model" }))}
-          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-2xl"
+          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg  hover:text-lightGray"
         >
           <MdModelTraining size={25} />
           <div className="font-semibold  ">Train Model</div>
         </div>
         <div
           onClick={() => dispatch(setPage({ page: "node_selection" }))}
-          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-2xl"
+          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-lightGray"
         >
           <PiSelectionAllBold size={25} />
           <div className="font-semibold  ">Node Selection</div>
         </div>
         <div
           onClick={() => dispatch(setPage({ page: "monitor_progress" }))}
-          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-2xl"
+          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-lightGray"
         >
           <IoSpeedometerOutline size={25} />
           <div className="font-semibold ">Monitor Progress</div>
         </div>
         <div
           onClick={() => dispatch(setPage({ page: "results" }))}
-          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-2xl"
+          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-lightGray"
         >
           <BsFillClipboardDataFill size={25} />
           <div className="font-semibold ">Results</div>
         </div>
         <div
           onClick={() => dispatch(setPage({ page: "schedule" }))}
-          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-2xl"
+          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-lightGray"
         >
           <BiCalendar size={25} />
           <div className="font-semibold t">Schedule</div>
         </div>
         <div
           onClick={() => dispatch(setPage({ page: "rewards" }))}
-          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-2xl"
+          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-lightGray"
         >
           <GoTrophy size={25} />
           <div className="font-semibold ">Rewards</div>
@@ -81,7 +81,7 @@ const NavBar = () => {
 
         <div
           onClick={() => dispatch(setPage({ page: "settings" }))}
-          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-2xl"
+          className="flex h-[50px] gap-x-4 my-4 items-center cursor-pointer text-lg hover:text-lightGray"
         >
           <FiSettings size={25} />
           <div className="font-semibold  ">Settings</div>
