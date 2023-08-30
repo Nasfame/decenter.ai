@@ -32,26 +32,28 @@ Our platform incorporates a built-in incentive system, fueled by DCEN Tokens. Th
 
 ### Features
 
-- Intuitive AI model deployment UI
-- Customizable node configuration
+- Model repository
+- Model customization
+- Auto training and testing
+- Incentivisation and governance
 - Private decentralized infrastructure
-- Scheduled model training
 
  ### Target Customers
-- Machine learning engineers and data scientists
-- Businesses and enterprises 
-- Tech start-ups and scale-ups 
+- AI Engineers
+- Data scientists
+- Machine learning engineers
+ 
 
   
  ### Benefits 
-- Rapid iteration
 - Cost effective
-- Seamless deployment
+- Rapid iteration
 - Automated resource management
+- Seamless deployment and scalability
 
   
 ## Hackathon
-For the hackathon, we built the PoC for project which is a distributed parallel training platform leveraging hyperledger fabric to train a single type of ML model. We also worked on the website, waitlist for erly access to generate EOI, Pitch deck, Customer profiles, Demo videos, Tokenomics, Go-to-market strategy, product pricing, token economy/usecase, market research, competitive analysis and advantage among others.
+For the hackathon, we built the PoC for project which is a distributed parallel training platform leveraging hyperledger fabric to train a single type of ML model. We also worked on the website, waitlist for early access to generate EOI, Pitch deck, Customer profiles, Demo videos, Tokenomics, Go-to-market strategy, product pricing, token economy/usecase, market research, competitive analysis and advantage among others.
 
 ### Website
 - A visually appealing landing page that introduces the DeCenter project and its value proposition.
