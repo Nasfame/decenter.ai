@@ -7,6 +7,8 @@ Decentralized AI Model Training Infrastructure
 DeCenter AI is a PaaS infrastructure that empowers machine learning engineers to train AI models more quickly and affordably through decentralized parallel training mechanisms.
 
 ## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
 - [Overview](#overview)
 - [Hackathon](#hackathon)
 - [How-to](#how-to)
@@ -19,7 +21,15 @@ DeCenter AI is a PaaS infrastructure that empowers machine learning engineers to
 - [Support](#support)
 - [Links](#links)
 
+## Installation
 
+1. Clone the repository: `git clone https://github.com/GamerHub/GamerHub.git`
+2. Install the dependencies: `npm install`
+
+## Usage
+
+1. Run the development server: `npm run dev`
+2. Access GamerHub in your web browser: `http://localhost:3000`
 
 ## Overview
 DeCenter AI functions as a PaaS infrastructure, empowering machine learning engineers to expedite and make the training of AI models more cost-effective through decentralized parallel training methods.
