@@ -1,7 +1,7 @@
 # DeCenter AI
 
 Decentralized AI Model Training Infrastructure
-
+ 
 ## Description
 
 DeCenter AI is a PaaS infrastructure that empowers machine learning engineers to train AI models more quickly and affordably through decentralized parallel training mechanisms.
