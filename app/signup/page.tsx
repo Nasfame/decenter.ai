@@ -17,7 +17,7 @@ const Signup: NextPage = () => {
         <div className="h-[80%] flex flex-col gap-10 px-20 pt-10">
           <div className="h-[10%]">
             <h2 className="font-bold text-2xl"> Create an account</h2>
-            <small className="font-semibold">Let's get started</small>
+            <small className="font-semibold">{"Let's get started"}</small>
           </div>
 
           <div className="h-12 full border-4 rounded-md relative">
@@ -64,7 +64,7 @@ const Signup: NextPage = () => {
           </button>
 
           <div className="text-xs font-semibold text-center">
-            Already have an account?{" "}
+            {"Already have an account? "}
             <span className="font-bold underline cursor-pointer"> Login</span>
           </div>
         </div>

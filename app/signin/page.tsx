@@ -47,11 +47,11 @@ const Signin: NextPage = () => {
           </button>
 
           <small className="font-bold hover:underline cursor-pointer text-center">
-            Forgot password?
+            {"Forgot password?"}
           </small>
 
           <div className="text-xs font-semibold text-center mt-14">
-            Don't have an account yet?
+            {"Don't have an account yet?"}
             <span className="font-bold underline cursor-pointer"> Signup</span>
           </div>
         </div>
