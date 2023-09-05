@@ -22,7 +22,7 @@ const Hero = () => {
           <div className="text-center border-none">
             <Link href="https://decenter.streamlit.app/">
               <button className="font-semibold text-sm rounded-full bg-btnGray text-white py-3 mt-10 px-10">
-                Train a Model
+                Get Started
               </button>
             </Link>
           </div>
