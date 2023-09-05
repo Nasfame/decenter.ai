@@ -1,6 +1,7 @@
 import LandingHeader from "@components/LandingHeader";
 import Image from "next/image";
 import React from "react";
+import Link from "next/link";
 
 const Hero = () => {
   return (
@@ -19,9 +20,11 @@ const Hero = () => {
           </h3>
 
           <div className="text-center border-none">
-            <button className="font-semibold text-sm rounded-full bg-btnGray text-white py-3 mt-10 px-10">
-              Get Started
-            </button>
+            <Link href="https://decenter.streamlit.app/">
+              <button className="font-semibold text-sm rounded-full bg-btnGray text-white py-3 mt-10 px-10">
+                Get Started
+              </button>
+            </Link>
           </div>
         </div>
       </div>

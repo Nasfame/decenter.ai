@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 
 const LandingHeader = () => {
@@ -17,6 +18,9 @@ const LandingHeader = () => {
       <div className="w-[50%] flex items-center justify-center">
         <ul className="flex space-x-10">
           <li className="p-2 cursor-pointer hover:bg-gray-500">Home</li>
+          <Link href="/app">
+            <li className="p-2 cursor-pointer hover:bg-gray-500">Dashboard</li>
+          </Link>
           <li className="p-2 cursor-pointer hover:bg-gray-500">About Us</li>
           <li className="p-2 cursor-pointer hover:bg-gray-500">Team</li>
           <li className="p-2 cursor-pointer hover:bg-gray-500">Our Contact</li>
